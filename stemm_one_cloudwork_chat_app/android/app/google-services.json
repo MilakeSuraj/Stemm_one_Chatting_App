@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "176393324855",
+    "project_id": "stemmonechat",
+    "storage_bucket": "stemmonechat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176393324855:android:68dda855f84fca4facb2b2",
+        "android_client_info": {
+          "package_name": "com.stemmonecloudwork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176393324855-h6mre81qcdop3b6uii22d4h7n6g7k56i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stemmonecloudwork.app",
+            "certificate_hash": "96716186db125a20af7c198113d82ba5b9117c2d"
+          }
+        },
+        {
+          "client_id": "176393324855-5ki2v6prcordvtnncvsrl7m0ksjcvp6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNxktncMcVuBAMGqg5HuVt5Kx18H9Ok8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176393324855-5ki2v6prcordvtnncvsrl7m0ksjcvp6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176393324855-6u5mo0lr5frvc0ua6sdtpjmo10r1fph4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stemmOneCloudworkChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

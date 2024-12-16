@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"stemmonechat","appId":"1:176393324855:android:68dda855f84fca4facb2b2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"stemmonechat","configurations":{"android":"1:176393324855:android:68dda855f84fca4facb2b2","ios":"1:176393324855:ios:ca769eec5592ffceacb2b2"}}}}}}
